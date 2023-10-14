@@ -46,6 +46,14 @@ html {
     height: 80vh;
 }
 
+.a-content {
+  background-color: white;
+  width: 720px;
+  height: 480px;
+  justify-content: center;
+  align-items: center;
+}
+
 /* .img-content {
     width: 10%;
     height: 10%;
